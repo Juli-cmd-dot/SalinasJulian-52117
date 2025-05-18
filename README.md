@@ -35,7 +35,7 @@ dicho lenguaje.
 
 3. Desde una terminal, ubiquese en la raíz de este proyecto.
 ````
-proyecto-mio
+JulianSalinas-52117/proyecto-mio
 ````
 
 5. Ejecutar con
