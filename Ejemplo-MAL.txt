@@ -1,0 +1,11 @@
+// Ejemplo usado (p v q?) ^ -r ->
+
+// Entrada invalida, se detectan errores sintácticos y léxicos en la entrada, no se reconoce
+
+el token "?" y se esperaba una expresión lógica luego de la implicación "->".
+
+// Una linea avisará donde se encuentra el token no reconocido, se avisará que se presenta 
+
+error sintáctico y se precederá a generar la tabla de tokens que si fueron reconocidos, 
+
+nada mas.

@@ -1,0 +1,7 @@
+// Ejemplo usado (p v q) -r -> a
+
+// Entrada no válida, presenta un error sintáctico en la entrada, se esperaba una operación
+del tipo lógica luego del cierre de parentesis.
+
+//se generará la tabla correspondiente de tokens reconocidos y nada mas, avisando que hay
+error sintáctico.

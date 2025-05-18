@@ -1,0 +1,7 @@
+// Ejemplo usado: j v e
+
+// Entrada valida, es correcto sintácticamente y no contiene errores lexicos, por lo que
+
+se procederá a generar tabla de tokens, árbol de derivación y traduccion a
+
+lenguaje Javascript
