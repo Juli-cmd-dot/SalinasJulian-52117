@@ -1,0 +1,118 @@
+{
+  "fecha": "2025-05-14T17:46:09.857Z",
+  "resultado": [
+    [
+      [
+        [
+          [
+            [
+              null,
+              [
+                [
+                  [
+                    [
+                      [
+                        [
+                          null
+                        ]
+                      ]
+                    ]
+                  ],
+                  null,
+                  [
+                    [
+                      [
+                        [
+                          null
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              null
+            ]
+          ],
+          null,
+          [
+            [
+              [
+                null
+              ]
+            ]
+          ]
+        ]
+      ],
+      null,
+      [
+        [
+          [
+            [
+              [
+                [
+                  null
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ],
+  "tokens": [
+    {
+      "tipo": "UNKNOWN",
+      "lexema": "(",
+      "línea": 1,
+      "columna": 1
+    },
+    {
+      "tipo": "UNKNOWN",
+      "lexema": "p",
+      "línea": 1,
+      "columna": 2
+    },
+    {
+      "tipo": "UNKNOWN",
+      "lexema": "v",
+      "línea": 1,
+      "columna": 4
+    },
+    {
+      "tipo": "UNKNOWN",
+      "lexema": "q",
+      "línea": 1,
+      "columna": 6
+    },
+    {
+      "tipo": "UNKNOWN",
+      "lexema": ")",
+      "línea": 1,
+      "columna": 7
+    },
+    {
+      "tipo": "UNKNOWN",
+      "lexema": "^",
+      "línea": 1,
+      "columna": 9
+    },
+    {
+      "tipo": "UNKNOWN",
+      "lexema": "r",
+      "línea": 1,
+      "columna": 11
+    },
+    {
+      "tipo": "UNKNOWN",
+      "lexema": "->",
+      "línea": 1,
+      "columna": 13
+    },
+    {
+      "tipo": "UNKNOWN",
+      "lexema": "s",
+      "línea": 1,
+      "columna": 16
+    }
+  ]
+}
