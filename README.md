@@ -27,20 +27,25 @@ pasar el código a lenguje JavaScript, se muestre un resultado en la salida, dem
 dicho lenguaje.
 
 ## INSTRUCCIONES PARA EJECUTAR EL PROGRAMA
+1. Abrír un archivo en VS CODE.
 
-1. Instalar dependencias (si aún no se hizo), asegurate de tener instalado Node.js.
+2. Instalar dependencias (si aún no se hizo), asegurate de tener instalado Node.js.
 
-2. Entrar en el archivo input.txt y colocar la expresion que se desee analizar, como puede ser (p v q) ^ -r -> s (no modifique
+3. Desde una terminal clona éste proyecto desde el repositorio GitHub utilizando el siguiente comando
+ ````
+   git clone https://github.com/Juli-cmd-dot/SalinasJulian-52117.git
+ ````
+4. Entrar en el archivo input.txt y colocar la expresion que se desee analizar, como puede ser (p v q) ^ -r -> s (no modifique
    el nombre del archivo, ni de ningun archivo ya establecido en este programa).
 
-3. Desde una terminal, ubiquese en la raíz de este proyecto.
+5. Desde una terminal, ubiquese en la raíz de este proyecto.
 ````
-JulianSalinas-52117/proyecto-mio
+  JulianSalinas-52117/proyecto mio
 ````
 
-5. Ejecutar con
-  ````
-node index.js
+6. Ejecutar con
+ ````
+  node index.js
 ````
 
 7. Disfrute del resultado obtenido.
